@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+dist/
+.cache/
+sass
+.vscode
+js
+.scss
+.json
+
+
+### Sass ###
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
